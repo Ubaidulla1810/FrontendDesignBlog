@@ -6,7 +6,7 @@ A responsive blog page designed and developed using HTML and CSS. This project s
 - Built with semantic HTML and custom CSS.
 
 ## How to View
-You can view the live blog page here:--> https://Ubaidulla1810.github.io/FrontendDesignBlog/ 
+You can view the live blog page here:--> https://blog-template-1.netlify.app 
 
 ## Contact
 If you have any feedback or suggestions, feel free to reach out:
